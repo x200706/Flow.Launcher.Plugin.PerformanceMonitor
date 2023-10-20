@@ -1,6 +1,8 @@
 # Performance Monitor
 Show CPU, RAM, storage usage info
 
+<img width="482" alt="image" src="https://github.com/x200706/Flow.Launcher.Plugin.PerformanceMonitor/assets/99391710/6565ecb0-6d5c-4258-b33d-6f7ff0609fc3">
+
 ## How To Install
 >Because it is not yet in plugin store,
 >please download this project(Code->Download Zip) and unzip it,
