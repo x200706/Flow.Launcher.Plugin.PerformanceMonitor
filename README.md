@@ -7,6 +7,7 @@ Show CPU, RAM, storage usage info
 >Because it is not yet in plugin store,
 >please download this project(Code->Download Zip) and unzip it,
 >rename the name of this folder to `Performance Monitor-1.0.0` and move the folder to your Flow Launcher plugin folder.
+>Than restart Flow Launcher, enter `p` to get the performance infomation.
 
 >If You find any bugs, welcome to report it via issue ^ ^
 
