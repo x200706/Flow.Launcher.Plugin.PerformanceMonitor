@@ -1,0 +1,12 @@
+{
+    "ID": "f77d9bf3-adc8-4749-b5d9-84baf4d65489",
+    "ActionKeyword": "p",
+    "Name": "Performance Monitor",
+    "Description": "Show CPU, RAM, storage usage info",
+    "Author": "Crystal",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/x200706/Flow.Launcher.Plugin.PerformanceMonitor",
+    "IcoPath": "Images\\app.png",
+    "ExecuteFileName": "main.py"
+}
