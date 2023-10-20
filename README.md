@@ -10,5 +10,5 @@ Show CPU, RAM, storage usage info
 
 ***
 #### TODO
-- [] Add GitHub workflow
-- [] Release it to Plugin Store->The process of installation will be easier.
+- [ ] Add GitHub workflow
+- [ ] Release it to Plugin Store->The process of installation will be easier.
