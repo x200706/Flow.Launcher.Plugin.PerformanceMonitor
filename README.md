@@ -1,4 +1,9 @@
->Required Python 3.11.0
+>Required Python 3.11.0 and
+>```shell
+>pip install psutil
+>```
+>Before use..
+
 # Performance Monitor
 Show CPU, RAM, storage usage info
 
