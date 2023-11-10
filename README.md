@@ -1,4 +1,4 @@
->Required Python 11
+>Required Python 3.11.0
 # Performance Monitor
 Show CPU, RAM, storage usage info
 
